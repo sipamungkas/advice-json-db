@@ -1,51 +1,51 @@
 {
  "advice": [
     {
-      "advice_id": 1,
+      "id": 1,
       "advice": "Take time to know yourself. \"Know thyself\" said Aristotle. When you know who you are, you can be wise about your goals, your dreams, your standards, your convictions. Knowing who you are allows you to live your life with purpose and meaning."
     },
     {
-      "advice_id": 2,
+      "id": 2,
       "advice": "A narrow focus brings big results. The number one reason people give up so fast is because they tend to look at how far they still have to go instead of how far they have come. But it's a series of small wins that can give us the most significant success."
     },
     {
-      "advice_id": 3,
+      "id": 3,
       "advice": "Show up fully. Don't dwell on the past, and don't daydream about the future, but concentrate on showing up fully in the present moment."
     },
     {
-      "advice_id": 4,
+      "id": 4,
       "advice": "Don't make assumptions. If you don't know the situation fully, you can't offer an informed opinion."
     },
     {
-      "advice_id": 5,
+      "id": 5,
       "advice": "Be patient and persistent. Life is not so much what you accomplish as what you overcome. "
     },
     {
-      "advice_id": 6,
+      "id": 6,
       "advice": " In order to get, you have to give. If you support, guide, and lead others, if you make contributions to their lives, you will reap the best rewards."
     },
     {
-      "advice_id": 7,
+      "id": 7,
       "advice": " Luck comes from hard work. Luck happens when hard work and timing and talent intersect."
     },
     {
-      "advice_id": 8,
+      "id": 8,
       "advice": "Don't try to impress everyone. The unhappiest people are those who care the most about what other people think."
     },
     {
-      "advice_id": 9,
+      "id": 9,
       "advice": " Don't be afraid of being afraid. Sometimes the one thing you need for growth is the one thing you are most afraid to do."
     },
     {
-      "advice_id": 10,
+      "id": 10,
       "advice": "Listen to learn. Learn how to listen. You can't learn anything when you're talking."
     },
     {
-      "advice_id": 11,
+      "id": 11,
       "advice": "Life's good, but it's not fair. The delusion that life's supposed to be fair is the source of much unhappiness."
     },
     {
-      "advice_id": 12,
+      "id": 12,
       "advice": "No task is beneath you. Don't put yourself above anyone or anything; work hard in silence and let success make the noise."
     }
   ],
